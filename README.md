@@ -10,7 +10,7 @@ The only dependency is [chemprop](https://github.com/chemprop/chemprop) with its
 
 
 ## How to use the model for prediction
-To use the model for your own molecules, you must follow these instructions (on Windows):
+To use the model for your own molecules, you must follow these instructions (tested on Windows 10):
 <ol>
   <li>Create a .csv file (my_file.csv) into the ./data folder with at least one column in with the name: "smiles" (without quotation marks)</li>
   <li>Modify the basic_prediction.sh file and change the --test_path ./data/literature.csv to --test_path ./data/my_file.csv</li>
@@ -18,4 +18,5 @@ To use the model for your own molecules, you must follow these instructions (on 
   <li>Wait until the model finishes (it might take a few minutes)</li>
   <li>A my_predictions.csv file will ba added to the parent folder which contains the predicted values</li>
 </ol> 
-If you run the bash script without modification, the model will run the literature.csv file (the same as in the literature).
+
+If you run the bash script without modification, the model will run the literature.csv file (the same as in the manuscript).
