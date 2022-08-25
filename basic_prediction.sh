@@ -1,0 +1,1 @@
+chemprop_predict --test_path ./data/literature.csv --checkpoint_dir ./model --preds_path my_predictions.csv --smiles_columns smiles 
