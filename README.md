@@ -3,10 +3,10 @@
 The repository contains the models and the literature test data for the publication: **Explainable artificial intelligence for unraveling solvent effects in organic solvent nanofiltration** by *Gergo Ignacz, Nawader F. Algadhi and Gyorgy Szekely* submitted to Journal of Membrane Science in *August, 2022*. 
 
 ![alt text](https://github.com/ignaczgerg/osn-solvent-model/blob/main/ga.PNG)
-
+image credit: Heno Hwang, scientific illustrator at KAUST
 ## Dependencies
 
-[chemprop](https://github.com/chemprop/chemprop)
+The only dependency is [chemprop](https://github.com/chemprop/chemprop) with its own dependencies.
 
 
 ## How to use the model for prediction
