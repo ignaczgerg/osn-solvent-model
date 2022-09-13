@@ -18,4 +18,4 @@ To use the model for your own molecules, you must follow these instructions (on 
   <li>Wait until the model finishes (it might take a few minutes)</li>
   <li>A my_predictions.csv file will ba added to the parent folder which contains the predicted values</li>
 </ol> 
-If you run the bash script without modification, the model will run the literature.csv file (the same as in the literature).
+If you run the bash script without modification, the model will run the literature.csv file (the same as in the manuscript).
