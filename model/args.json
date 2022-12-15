@@ -26,7 +26,7 @@
     "crossval_index_file": null,
     "crossval_index_sets": null,
     "cuda": true,
-    "data_path": "./data/FINAL_LIST_997_closed.csv",
+    "data_path": "./data/FINAL_LIST.csv",
     "data_weights_path": null,
     "dataset_type": "regression",
     "depth": 3,
@@ -91,7 +91,7 @@
         "time": "Sun Jul 31 19:47:11 2022"
     },
     "resume_experiment": false,
-    "save_dir": "./data/train_results/FINAL_LIST_997_closed/",
+    "save_dir": "./data/train_results/",
     "save_preds": false,
     "save_smiles_splits": false,
     "seed": 0,
